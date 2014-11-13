@@ -1,0 +1,23 @@
+{
+  "name": "apigee-dlite",
+  "version": "0.0.0",
+  "description": "Apigee Light Weight Developer Portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apigeecs/apigee-dlite.git"
+  },
+  "keywords": [
+    "Apigee",
+    "Dlite",
+    "Portal"
+  ],
+  "author": "Anil Sagar",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/apigeecs/apigee-dlite/issues"
+  }
+}
